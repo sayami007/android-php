@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Bibesh/.android/build-cache/227b0d65360a5ed57af93e6460a9237bdff081b0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Bibesh/.android/build-cache/e504e03379f3f8b91495cb8a20fbb083dc1a4ef1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Bibesh/.android/build-cache/916cf96a6ab46b9ad329e88f1353ae78f6cef5bb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Bibesh/.android/build-cache/b62cd7549e26449757c4e9cf2ed4c91bca7cdf44/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Bibesh/.android/build-cache/b144434f06c5df11328a44e4c367c89f82cfdafb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Bibesh/.android/build-cache/822486ae2f8b192db0fc80be1a8a805c89dd40c7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Bibesh/.android/build-cache/4587cd779abb2ffea987ee3aeebef2f854fbd446/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Bibesh/.android/build-cache/fda3bc155a67b1d8f455ecebf04fc642e3fde582/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Bibesh/.android/build-cache/b36ccc0a5ba9ffd3c2d0bafeb2e78d72670d2411/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml:11:9-35
+	android:roundIcon
+		ADDED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml:10:9-54
+	android:allowBackup
+		ADDED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.example.bibesh.savename.MainActivity
+ADDED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Bibesh/.android/build-cache/227b0d65360a5ed57af93e6460a9237bdff081b0/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Bibesh/.android/build-cache/e504e03379f3f8b91495cb8a20fbb083dc1a4ef1/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Bibesh/.android/build-cache/916cf96a6ab46b9ad329e88f1353ae78f6cef5bb/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Bibesh/.android/build-cache/b62cd7549e26449757c4e9cf2ed4c91bca7cdf44/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Bibesh/.android/build-cache/b144434f06c5df11328a44e4c367c89f82cfdafb/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Bibesh/.android/build-cache/822486ae2f8b192db0fc80be1a8a805c89dd40c7/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Bibesh/.android/build-cache/4587cd779abb2ffea987ee3aeebef2f854fbd446/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Bibesh/.android/build-cache/fda3bc155a67b1d8f455ecebf04fc642e3fde582/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Bibesh/.android/build-cache/b36ccc0a5ba9ffd3c2d0bafeb2e78d72670d2411/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Bibesh/.android/build-cache/227b0d65360a5ed57af93e6460a9237bdff081b0/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Bibesh/Downloads/SaveName/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Bibesh/.android/build-cache/227b0d65360a5ed57af93e6460a9237bdff081b0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Bibesh/.android/build-cache/e504e03379f3f8b91495cb8a20fbb083dc1a4ef1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Bibesh/.android/build-cache/916cf96a6ab46b9ad329e88f1353ae78f6cef5bb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Bibesh/.android/build-cache/b62cd7549e26449757c4e9cf2ed4c91bca7cdf44/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Bibesh/.android/build-cache/b144434f06c5df11328a44e4c367c89f82cfdafb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Bibesh/.android/build-cache/822486ae2f8b192db0fc80be1a8a805c89dd40c7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Bibesh/.android/build-cache/4587cd779abb2ffea987ee3aeebef2f854fbd446/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Bibesh/.android/build-cache/fda3bc155a67b1d8f455ecebf04fc642e3fde582/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Bibesh/.android/build-cache/b36ccc0a5ba9ffd3c2d0bafeb2e78d72670d2411/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Bibesh/.android/build-cache/227b0d65360a5ed57af93e6460a9237bdff081b0/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Bibesh/.android/build-cache/227b0d65360a5ed57af93e6460a9237bdff081b0/output/AndroidManifest.xml:26:9-47

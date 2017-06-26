@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Bibesh/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/Bibesh/Downloads/SaveName/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_fe054b9738d3a651be726ba141946c1becde6c32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bibesh/Downloads/SaveName/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="41a9578de8830a5034e7c19530a1d9d70152b211">
+        <dex dex="/Users/Bibesh/Downloads/SaveName/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_60a9ddae9beb35d1f5812b645fe263e617da547b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bibesh/Downloads/SaveName/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Bibesh/Downloads/SaveName/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_721c7b5014ec20b13b070f14a58c985ea44362ca/classes.dex" />
+    </item>
+
+</items>
